@@ -2,12 +2,18 @@
 <html lang="en" class="light scroll-smooth group" data-layout="vertical" data-sidebar="light" data-sidebar-size="lg" data-mode="light" data-topbar="light" data-skin="default" data-navbar="sticky" data-content="fluid" dir="ltr">
 <head>
     <meta charset="utf-8">
-    <title>Sign In | StarCode & Dashboard Template</title>
+    <title>Sign In | LDP Portal</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta content="Minimal Admin & Dashboard Template" name="description">
-    <meta content="StarCode Kh" name="author">
+    
+    <!-- <meta content="Minimal Admin & Dashboard Template" name="description"> -->
+    <meta content="LDP Portal" name="description">
+
+    <!-- <meta content="StarCode Kh" name="author"> -->
+    <meta content="LDP Portal" name="author">
+
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ URL::to('assets/images/favicon.ico') }}">
+    <!-- <link rel="shortcut icon" href="{{ URL::to('assets/images/favicon.ico') }}"> -->
+    <link rel="icon" type="image" href="https://lifeacademy.edu.ph/wp-content/uploads/2025/01/LDP-Logo-for-title-image.png">
     <!-- Layout config Js -->
     <script src="{{ URL::to('assets/js/layout.js') }}"></script>
     <!-- StarCode CSS -->
